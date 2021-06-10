@@ -15,7 +15,9 @@ API to cover the basic CRUD operation for Item module.
 - Generate database and object using sql script in DB folder.
 - Load ShopBridge solution using the ShopBridge.sln file under ShopBridge folder.
 - Change the connection string in Connection.config file of service located in Service Layer> ShopBridge.Service > Config folder in solution.
+- Set ShopBridge.Service as "Start Up Project".
 - Run project, it will open up in new browser window with url http://localhost:59030/ This will be base url for accessing different operations of Item service.
+- "Welcome to ShopBridge" should be visible on successful running. If not then "Clean Solution" and "Build Solution" followed with re running solution file to make it work 
 
 #### Functional Aspects
 

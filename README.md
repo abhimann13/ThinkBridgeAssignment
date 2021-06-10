@@ -1,11 +1,14 @@
-### ShopBridge Backend AssignmentShopBridge Backend Assignment
+### ShopBridge Backend Assignment
 
 API to cover the basic CRUD operation for Item module.
 
 #### Git Folder structure
 
 **ShopBridge** - Contains the backend solution codebase
+
 **DB** - Contains the sql script for generating necessary db objects
+
+**Payload** - Contains snapshots of API methods
 
 #### Application configuration
 

@@ -1,4 +1,4 @@
-### ShopBridge Backend Assignment
+## ShopBridge Backend Assignment
 
 API to cover the basic CRUD operation for Item module.
 
